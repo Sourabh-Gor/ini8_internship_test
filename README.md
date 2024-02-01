@@ -10,7 +10,7 @@ Follow these steps to run the code on your local machine:
 
 ### 1. Clone the Repository
 
-git clone [https://github.com/your-username/registration-system.git](https://github.com/Sourabh-Gor/ini8_internship_test)https://github.com/Sourabh-Gor/ini8_internship_test
+git clone (https://github.com/Sourabh-Gor/ini8_internship_test)https://github.com/Sourabh-Gor/ini8_internship_test
 
 ### 2. Navigate to the repository
 cd registration-system
